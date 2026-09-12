@@ -4,7 +4,7 @@
 
 <br><br>
 
-<h1>⚡ Zal Яyuichi — Produk & Layanan</h1>
+<h1>⚡ Produk & Layanan</h1>
 
 <p><b>Platform All-In-One Terlengkap</b> — Menggabungkan RAT & Sadap Jarak Jauh, Bug WhatsApp,<br>Tools Spam, AI Models, Downloader, Hingga Nonton Anime Dalam Satu Ekosistem Terintegrasi.</p>
 
@@ -207,14 +207,7 @@ Aplikasi **Remote Access & Device Control** Bertenaga Penuh Dengan **40+ Fitur R
 
 <br>
 
-```
-╔══════════════════════════════════════════════════════╗
-║           ⚡  Zal Яyuichi  ⚡                        ║
-║    Platform All-In-One Terbaik Dan Terlengkap        ║
-╚══════════════════════════════════════════════════════╝
-```
-
-**Made With ❤️ By Zal Яyuichi**
+**Made With By Zal Яyuichi**
 
 *Platform Ini Dikembangkan Untuk Keperluan Edukasi Dan Pengujian Keamanan.*
 
