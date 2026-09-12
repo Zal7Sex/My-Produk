@@ -4,7 +4,7 @@
 
 <br><br>
 
-# 🌟 Ryuichi Aplikasi Multi Fungsi
+# 🌟 Aplikasi Ryuichi
 
 > **Platform All In One Dengan 100+ Fitur Beragam** — Menggabungkan RAT & Sadap Jarak Jauh, Bug WhatsApp, Tools Spam, hingga Nonton Anime & Donghua Dalam Satu Ekosistem Terintegrasi.
 
@@ -314,7 +314,7 @@
 | Fitur | Deskripsi |
 |-------|-----------|
 | **Lock Versi 2** | Versi Penguncian Layar yang Lebih Kuat dan Tidak Bisa Dibuka Sembarangan |
-| **Lock Chat** | Memblokir Aplikasi Chat (WhatsApp, Dll) di Device Target |
+| **Lock Chat** | Kunci Perangkat Dan Bisa Ngechat Sama Korban |
 | **Set Brightness** | Mengatur Tingkat Kecerahan Layar Device Target dari Jarak Jauh |
 | **Set Volume** | Mengatur Volume Perangkat Target Secara Remote |
 | **Telpon Nomer** | Memaksa Device Target Melakukan Panggilan ke Nomor Tertentu |
